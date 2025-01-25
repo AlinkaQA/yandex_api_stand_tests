@@ -1,5 +1,6 @@
 ## Автоматизация теста к API приложения Яндекс.Прилавок   
-yandex_api_stand_tests contain designed autotests for the field "first name" to the API create_user checklist
+
+yandex_api_stand_tests содержит разработанные автотесты для поля "first name" в контрольном списке API create_user
 
 ### Чек-лист
 
